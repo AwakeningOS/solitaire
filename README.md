@@ -2,12 +2,18 @@
 
 ブラウザーで遊べるクロンダイクソリティアです。
 
-## GitHub Pages
+## Play
 
-このフォルダをGitHubリポジトリに上げて、GitHubの `Settings` -> `Pages` で次を選ぶと公開できます。
+GitHub Pagesを有効化すると、次のURLで遊べます。
+
+https://awakeningos.github.io/solitaire/
+
+## Enable GitHub Pages
+
+GitHubの `Settings` -> `Pages` で次を選んで保存してください。
 
 - Source: `Deploy from a branch`
 - Branch: `main`
 - Folder: `/ (root)`
 
-公開後は `https://ユーザー名.github.io/リポジトリ名/` で開けます。
+保存後、反映まで少し待つと公開URLが有効になります。
